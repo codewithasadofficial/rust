@@ -4,6 +4,10 @@
 
 # This file is only a "symlink" to bootstrap.py, all logic should go there.
 
+# Author: CODEWITHASAD
+# website: codwithasad.org
+# i just simply add comment for participation in hacktoberfest
+
 import os
 import sys
 
